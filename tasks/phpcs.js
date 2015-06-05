@@ -20,6 +20,7 @@ module.exports = function(grunt) {
             },
             options: {
                 errorSeverity: 'error-severity',
+                ignore: 'ignore',
                 report: 'report',
                 reportFile: 'report-file',
                 severity: 'severity',
